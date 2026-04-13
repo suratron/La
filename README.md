@@ -1,5 +1,5 @@
-# LarpifyLeak
-Full access to Larpify/FakelyPro dashboard for completely FREE!
+# FakelyPro/Larpify Leak
+Full access to FakelyPro/Larpify dashboard for completely FREE!
 Larp with no limit with us.
 
 ## How to download?
