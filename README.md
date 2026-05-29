@@ -1,9 +1,1 @@
-# FakelyPro/Larpify Leak
-Full access to FakelyPro/Larpify dashboard for completely FREE!
-Larp with no limit with us.
 
-## How to download?
-1. Visit [https://larpify.pro/](https:larpify.pro/) on your phone on Safari for iOS or Chrome for Android
-2. Click the share button in the bottom and "Add to home screen" (button is in the top right for Chrome)
-3. Open the app
-4. Enjoy!
